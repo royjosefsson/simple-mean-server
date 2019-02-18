@@ -16,7 +16,7 @@
     "express": "^4.13.3",
     "font-awesome": "^4.7.0",
     "hoek": "^4.2.1",
-    "mongoose": "^4.3.4",
+    "mongoose": "^5.4.13",
     "request": "^2.87.0"
   }
 }
